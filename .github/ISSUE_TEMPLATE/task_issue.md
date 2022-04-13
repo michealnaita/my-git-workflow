@@ -1,3 +1,8 @@
+---
+name: Task
+about: A small task or sub-tasks
+---
+
 ## Task: [ Task Title ]
 
 [ This would be the task description]

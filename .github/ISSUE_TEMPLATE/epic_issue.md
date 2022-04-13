@@ -1,3 +1,8 @@
+---
+name: Epic
+about: A large task with smaller sub-tasks
+---
+
 ## Task: [ Task Title ]
 
 [ This would be the task description]
